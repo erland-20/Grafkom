@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nidorino
+* source:	https://sketchfab.com/3d-models/nidorino-d679382592e340ae9c1be6bf29e7f12f
+* author:	ThirdSon (https://sketchfab.com/ThirdSon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nidorino" (https://sketchfab.com/3d-models/nidorino-d679382592e340ae9c1be6bf29e7f12f) by ThirdSon (https://sketchfab.com/ThirdSon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
